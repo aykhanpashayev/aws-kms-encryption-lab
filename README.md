@@ -73,3 +73,43 @@ Viewed:
 - Security troubleshooting & validation
 
 ---
+
+## 📸 Screenshots: AWS KMS Encryption Lab Walkthrough
+
+Below is a step-by-step visual record of the AWS KMS Encryption Lab I completed, showing the key stages of setting up and applying encryption on S3, EC2, EBS, and CloudTrail.
+
+### Step 1: 
+![Step 1](screenshots/Lab%20Pic%20(1).png)
+
+### Step 2:
+![Step 2](screenshots/Lab%20Pic%20(2).png)
+
+### Step 3: 
+![Step 3](screenshots/Lab%20Pic%20(3).png)
+
+### Step 4:
+![Step 4](screenshots/Lab%20Pic%20(4).png)
+
+### Step 5:
+![Step 5](screenshots/Lab%20Pic%20(5).png)
+
+### Step 6: 
+![Step 6](screenshots/Lab%20Pic%20(6).png)
+
+### Step 7:
+![Step 7](screenshots/Lab%20Pic%20(7).png)
+
+### Step 8:
+![Step 8](screenshots/Lab%20Pic%20(8).png)
+
+### Step 9:
+![Step 9](screenshots/Lab%20Pic%20(9).png)
+
+### Step 10:
+![Step 10](screenshots/Lab%20Pic%20(10).png)
+
+### Step 11:
+![Step 11](screenshots/Lab%20Pic%20(11).png)
+
+### Step 12:
+![Step 12](screenshots/Lab%20Pic%20(12).png)
